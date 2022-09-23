@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/language-c-lightgrey" alt="">
+<img src="https://img.shields.io/badge/language-c-lightgrey" alt=""><img src="https://img.shields.io/badge/-C%2B%2B-blue" alt="">
 
 
 
