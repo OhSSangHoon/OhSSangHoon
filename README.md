@@ -1,5 +1,7 @@
-✏ study ✏
 <br><img src="https://img.shields.io/badge/-PHP-blueviolet" alt="">
+		<img src="https://img.shields.io/badge/-java-yellow" alt="">
+		<img src="https://img.shields.io/badge/-css-orange" alt="">
+    <img src="https://img.shields.io/badge/-html5-red" alt="">
 
 
 
