@@ -1,5 +1,5 @@
 ✏ study ✏
----<img src="https://img.shields.io/badge/-PHP-blueviolet" alt="">
+<br><img src="https://img.shields.io/badge/-PHP-blueviolet" alt="">
 
 
 
