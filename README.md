@@ -1,5 +1,9 @@
 ### Hi there 👋
-img.shields.io/badge/language-c-lightgrey
+
+
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OhSSangHoon&show_icons=true&theme=radical)
 
 <!--
