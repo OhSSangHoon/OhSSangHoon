@@ -1,5 +1,4 @@
 ### Hi there 👋
-(https://img.shields.io/badge/language-c-green)
 <!--
 **OhSSangHoon/OhSSangHoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
