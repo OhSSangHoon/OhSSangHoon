@@ -1,7 +1,7 @@
-<p align="center">
+<p>
 🛠 Tech Stack 🛠
 </p>
-<div align="center">
+<div>
   <!-- 첫 번째 줄 -->
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" width="100">
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=CSS3&logoColor=white" width="100">
@@ -16,17 +16,17 @@
 </div>
 <br>
 <br>
-<p align="center">
+<p>
 📊 GitHub Stats 📊
 </p>
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=OhSSangHoon&show_icons=true&theme=radical" />
 </p>
 <br>
-<p align="center">
+<p>
 📖 Learning 📖
 </p>
-<p align="center">
+<p>
 코드잇 [FE단기심화09] 25.04.24 - 25.06.24
 </p>
 
