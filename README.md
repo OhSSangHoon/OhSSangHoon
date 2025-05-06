@@ -19,7 +19,7 @@
 <br>
 <br>
 
-## 📖 Study
+## 📖 Learning
 ### 코드잇 [FE단기심화09] 25.04.24 - 25.06.24
 <!--
 **OhSSangHoon/OhSSangHoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
