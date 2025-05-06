@@ -1,6 +1,6 @@
-<p>
+<h3>
 🛠 Tech Stack 🛠
-</p>
+</h3>
 <div>
   <!-- 첫 번째 줄 -->
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" width="100">
@@ -16,16 +16,16 @@
 </div>
 <br>
 <br>
-<p>
+<h3>
 📊 GitHub Stats 📊
-</p>
+</h3>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=OhSSangHoon&show_icons=true&theme=radical" />
 </p>
 <br>
-<p>
+<h3>
 📖 Learning 📖
-</p>
+</h3>
 <p>
 코드잇 [FE단기심화09] 25.04.24 - 25.06.24
 </p>
