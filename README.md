@@ -24,10 +24,11 @@
 </p>
 <br>
 <h3>
-📖 Learning 📖
+포폴
 </h3>
 <p>
-코드잇 [FE단기심화09] 25.04.24 - 25.06.24
+  https://meet-meet-psi.vercel.app/
+  https://webeelab.com/
 </p>
 
 <!--
