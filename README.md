@@ -23,13 +23,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=OhSSangHoon&show_icons=true&theme=radical" />
 </p>
 <br>
-<h3>
-포폴
-</h3>
-<p>
-  https://meet-meet-psi.vercel.app/
-  https://webeelab.com/
-</p>
 
 <!--
 **OhSSangHoon/OhSSangHoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
