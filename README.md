@@ -11,27 +11,25 @@
 ---
 
 <h3>🛠 Tech Stack</h3>
-
 <div>
   <!-- Language -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/JavaScript-FFE57A?style=for-the-badge&logo=javascript&logoColor=666633" height="25">
+  <img src="https://img.shields.io/badge/TypeScript-90CAF9?style=for-the-badge&logo=typescript&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Java-FFCC80?style=for-the-badge&logo=openjdk&logoColor=7A5000" height="25">
   <br>
   <!-- Framework -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="25">
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="25">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/React-CE93D8?style=for-the-badge&logo=react&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/React_Native-F48FB1?style=for-the-badge&logo=react&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Next.js-B0BEC5?style=for-the-badge&logo=nextdotjs&logoColor=white" height="25">
   <br>
   <!-- Styling / State -->
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-B2EBF2?style=for-the-badge&logo=tailwindcss&logoColor=2A7A90" height="25">
+  <img src="https://img.shields.io/badge/Zustand-BCAAA4?style=for-the-badge&logo=react&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/React_Query-EF9A9A?style=for-the-badge&logo=reactquery&logoColor=white" height="25">
   <br>
   <!-- Infra -->
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Vercel-CFD8DC?style=for-the-badge&logo=vercel&logoColor=555555" height="25">
 </div>
-
 <br>
 
 ---
