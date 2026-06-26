@@ -102,10 +102,7 @@
 <h3>📊 GitHub Stats</h3>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=OhSSangHoon&theme=radical&hide_border=false" />
-</p>
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OhSSangHoon&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OhSSangHoon&show_icons=true&theme=radical&hide_border=false" />
 </p>
 
 <br>
